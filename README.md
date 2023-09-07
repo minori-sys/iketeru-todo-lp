@@ -1,6 +1,5 @@
 # 🌟イケてるTodo
-
-![ike-todo-top](https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/2b1dac97-fbb4-495a-94a1-a7be5825c7c9)
+![ike-todo-top](https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/bdd5a732-af17-4919-8d3e-dae621a9c51f)
 
 ### タスクを完了すると、イケメンがあなたの頑張りを褒めてくれます。
 
@@ -10,7 +9,7 @@
 
 - 衝撃のイケメンなしバージョンも搭載！これで普通のオサレなTodoリストだね！
 
-<p align="center"><img width="350" alt="" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/8670d82b-f18b-4903-aac9-cf32c126465b"></p>
+<p align="center"><img width="350" alt="" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/52d6bc52-3d1c-457f-9748-bb512f4949b9"></p>
 
 ## 🌟アプリのURL
 
@@ -37,34 +36,34 @@
 - ただいま準備中……すみません。。
 
 ## 🌟画面構成
+![iketeru-guide](https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/72caf95e-f1cc-4f18-a440-186ad5cd9384)
 
-![iketeru-guide](https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/bd791347-ba1b-4b28-af09-422327a2c365)
 
 ### デザインは3種類
 
 - グラスモーフィズム(Glassmorphism)
 
-<img width="350" alt="スクリーンショット 2023-08-25 13 52 43" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/f80ff61d-802d-4b84-9162-bfed23f8fd24">
+<img width="350" alt="Glassmorphism" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/7b7c2bf4-54b3-47bd-a72f-76fa302f4393">
 
 <br />
 
-<img width="350" alt="スクリーンショット 2023-08-22 17 22 31" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/8670d82b-f18b-4903-aac9-cf32c126465b">
+<img width="350" alt="Glassmorphism" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/8f1951eb-0505-49fb-b8e5-f12315560196">
 
 - クレイモーフィズム（Claymorphism) ⇒ ちょっと、Neumorphismも入ってるけど、気にしない
 
-<img width="350" alt="スクリーンショット 2023-08-25 13 52 58" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/ba1bbdf8-8411-401b-9733-032ae3b98a9d">
+<img width="350" alt="Claymorphism" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/fb99a2cf-2a0b-41d3-833a-75c05288ff4e">
 
 <br />
 
-<img width="350" alt="スクリーンショット 2023-08-31 18 51 59" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/434020ab-2923-46aa-a8ad-e91fa80466ec">
+<img width="350" alt="Claymorphism" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/3f5ec6b6-f29e-49d9-96ef-b50fc0dc515f">
 
 - ネオブルータリズム（Neo Brutalism）
 
-<img width="350" alt="スクリーンショット 2023-08-25 13 53 08" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/fb031914-c251-4b37-8631-80002d653a31">
+<img width="350" alt="Neo Brutalism" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/b3a2ff18-a4aa-4073-9067-9f7932fa26b1">
 
 <br />
 
-<img width="350" alt="スクリーンショット 2023-08-22 17 20 33" src="https://github.com/minori-sys/iketeru-todo-ld/assets/31578760/4dfa541b-321f-4099-991d-654c20dea3cc">
+<img width="350" alt="Neo Brutalism" src="https://github.com/minori-sys/iketeru-todo-lp/assets/31578760/6d85958e-a726-40e4-ae76-7173a34d1c3d">
 
 #### なぜデザインが3種類なのか？
 
